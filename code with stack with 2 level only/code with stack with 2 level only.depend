@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651323385 source:c:\users\htc\documents\github\the-game-of-nim\code with stack with 2 level only\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+	<stack>
+
