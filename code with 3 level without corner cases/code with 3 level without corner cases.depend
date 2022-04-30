@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651325044 source:c:\users\htc\documents\github\code with 3 level without corner cases\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<stack>
+
