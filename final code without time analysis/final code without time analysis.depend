@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651326308 source:c:\users\htc\documents\github\final code without time analysis\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<unistd.h>
+	<stack>
+	<string>
+	<cmath>
+
